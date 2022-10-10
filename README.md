@@ -11,7 +11,7 @@
 #### සරල ක්‍රමය
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Blacknico-X/Franky-QR?v=1)
+[![Run on Repl.it]((https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js)
 
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා franky Bot deploy කරන්න
 [![Deploy](https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
